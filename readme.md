@@ -1,6 +1,7 @@
 # Camera Utilities WIP
 
 Join the MoltenPixelStudio Discord for Updates: https://discord.gg/DJG2PtPD74
+Message @ienis on Discord to recommend additions and changes
 
 Pack made for cool camera transitions using a free camera
 - Mostly intened for Youtubers or Project Makers to show of Builds or other things
